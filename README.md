@@ -2,7 +2,7 @@
 
 Este é um projeto de automação financeira desenvolvido em Python. O objetivo é permitir o registo rápido de despesas do dia a dia e manter um histórico persistente utilizando ficheiros CSV (Comma Separated Values).
 
-Este projeto faz parte da minha jornada de aprendizagem em Pythonw.
+Este projeto faz parte da minha jornada de aprendizagem em Python.
 
 ## 🚀 Funcionalidades
 
@@ -68,7 +68,7 @@ Gasolina: R$ 200.00
 Total Gasto: R$ 350.50
 ```
 
-## 👩‍💻 Autora
+## 👩‍💻 Desenvolvimento
 
 Desenvolvido durante estudos de lógica de programação e manipulação de ficheiros em Python.
 
