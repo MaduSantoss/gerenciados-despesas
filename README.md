@@ -71,4 +71,4 @@ Total Gasto: R$ 350.50
 ## 👩‍💻 Autora
 
 Desenvolvido durante estudos de lógica de programação e manipulação de ficheiros em Python.
-```
+
