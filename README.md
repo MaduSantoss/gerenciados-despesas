@@ -1,4 +1,3 @@
-````markdown
 # 💰 Gerenciador de Despesas Pessoal
 
 Este é um projeto de automação financeira desenvolvido em Python. O objetivo é permitir o registo rápido de despesas do dia a dia e manter um histórico persistente utilizando ficheiros CSV (Comma Separated Values).
